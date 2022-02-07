@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\pathbge.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\pathbge.dir/objects.a @CMakeFiles\pathbge.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\pathbge.dir/objects.a -Wl,--no-whole-archive  -o pathbge.exe -Wl,--out-implib,libpathbge.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\pathbge.dir\linklibs.rsp

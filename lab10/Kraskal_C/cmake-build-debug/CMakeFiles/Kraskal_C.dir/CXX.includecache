@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/BaHo/CLionProjects/algorithms/lab10/Kraskal_C/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

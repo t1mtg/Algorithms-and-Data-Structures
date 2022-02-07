@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/BaHo/CLionProjects/algorithms/lab12/LIS_NlogN/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

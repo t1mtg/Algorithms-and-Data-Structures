@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/BaHo/CLionProjects/algorithms/lab8/labyrinth/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+algorithm
+-
+

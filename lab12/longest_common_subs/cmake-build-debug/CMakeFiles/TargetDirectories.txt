@@ -1,0 +1,3 @@
+C:/Users/BaHo/CLionProjects/algorithms/lab12/longest_common_subs/cmake-build-debug/CMakeFiles/longest_common_subs.dir
+C:/Users/BaHo/CLionProjects/algorithms/lab12/longest_common_subs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/BaHo/CLionProjects/algorithms/lab12/longest_common_subs/cmake-build-debug/CMakeFiles/rebuild_cache.dir

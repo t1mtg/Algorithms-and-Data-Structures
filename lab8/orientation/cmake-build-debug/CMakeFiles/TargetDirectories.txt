@@ -1,0 +1,3 @@
+C:/Users/BaHo/CLionProjects/algorithms/lab8/orientation/cmake-build-debug/CMakeFiles/orientation.dir
+C:/Users/BaHo/CLionProjects/algorithms/lab8/orientation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/BaHo/CLionProjects/algorithms/lab8/orientation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

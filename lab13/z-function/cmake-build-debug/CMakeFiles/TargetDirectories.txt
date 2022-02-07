@@ -1,0 +1,3 @@
+C:/Users/BaHo/CLionProjects/algorithms/lab13/z-function/cmake-build-debug/CMakeFiles/z_function.dir
+C:/Users/BaHo/CLionProjects/algorithms/lab13/z-function/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/BaHo/CLionProjects/algorithms/lab13/z-function/cmake-build-debug/CMakeFiles/rebuild_cache.dir

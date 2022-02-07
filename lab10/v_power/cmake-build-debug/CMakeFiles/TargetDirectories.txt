@@ -1,0 +1,3 @@
+C:/Users/BaHo/CLionProjects/algorithms/lab10/v_power/cmake-build-debug/CMakeFiles/v_power.dir
+C:/Users/BaHo/CLionProjects/algorithms/lab10/v_power/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/BaHo/CLionProjects/algorithms/lab10/v_power/cmake-build-debug/CMakeFiles/rebuild_cache.dir

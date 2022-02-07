@@ -1,0 +1,3 @@
+C:/Users/BaHo/CLionProjects/algorithms/lab5/check/cmake-build-debug/CMakeFiles/check.dir
+C:/Users/BaHo/CLionProjects/algorithms/lab5/check/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/BaHo/CLionProjects/algorithms/lab5/check/cmake-build-debug/CMakeFiles/rebuild_cache.dir
